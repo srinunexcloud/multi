@@ -8,7 +8,7 @@ pipeline {
             steps {
                 // Checkout the source code from your version control system
                 // For example, using Git:
-                git 'https://github.com/architectdevops7/java-application.git'
+                git 'https://github.com/srinunexcloud/multi.git'
             }
         }
         
